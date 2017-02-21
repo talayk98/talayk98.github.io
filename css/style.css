@@ -1,0 +1,160 @@
+#wrapper {
+  
+      display: block; 
+      margin-left: auto;
+      margin-right: auto;
+}
+body {
+      padding: auto;
+      margin: auto;
+      align-content: absolute;
+
+    }
+
+
+#header {
+      background-color: #E4BB97;
+
+      height: 120em;
+      background-position:  center center;
+      position: relative;
+     
+
+       
+     }
+nav {
+    
+   
+    size: 20px;
+
+}
+h1 {
+      font-family: 'Poiret One', cursive;
+      font-size: 100px;
+      line-height: 1.25em;
+      margin: 0em 0em;
+      position: relative;
+      text-align: center;
+      padding: 1em;
+     
+
+    }
+
+
+
+iframe{
+    	
+    	padding:3em 0em;
+      width: 50em;
+      height: 30em;
+      display: center;
+
+    }
+
+
+
+h2 {
+      color: #9C765C;
+      font-family: 'Raleway', sans-serif;
+      font-size: 50px;
+      font-weight: 500;
+      text-align: left;
+      text-transform: uppercase;
+      
+    }
+   
+
+      
+  
+h3{
+      font-family: 'Raleway', sans-serif;
+      font-size: 25px;
+      font-weight: 250;
+      text-align: left;
+      
+
+    }
+
+ul {
+      margin: 0 auto;
+      padding: 3em;
+      width: 50%;
+    }
+
+li {
+      border-bottom: 1px solid #E4BB97;
+      list-style: none;
+      margin: 100px 0px;
+      padding-bottom: 60px;
+      position: relative;
+    }
+
+p {
+      color: #444444;
+      line-height: 2em;
+      font-family: 'Raleway', sans-serif;
+      font-size: 25px;
+      font-weight: 100;
+      position: relative;
+      text-align: left;
+     }
+    
+
+a {
+      color: #214E34;
+      font-family: 'Raleway', sans-serif;
+      font-size: 20px;
+      font-weight: 900;
+      text-align: left;
+      text-transform: uppercase;
+      text-decoration: none;
+      letter-spacing: 2px;
+      text-decoration: underline;
+      padding: 2em, 3em;
+
+    }
+a:hover {
+        opacity: 0.5;
+        filter: alpha(opacity=50);
+      }
+a{ 
+      padding-left: 0.5em; 
+    }
+img {
+      padding: 10em, 0em;
+      opacity: 1.0;
+      filter: alpha(opacity=100);
+      width: 105%;
+      height auto;
+    } 
+img:hover {
+        opacity: 0.5;
+        filter: alpha(opacity=50);
+      }
+#lastimage {
+      padding: 0.5em
+   }
+.span {
+        display: block; 
+        margin-left: auto;
+        margin-right: auto;
+        padding: center;
+        width: 40%;
+        height: 40%;
+        text-align: left;
+        font-family: 'Poiret One', cursive;
+        font-size: 70px;
+        font-weight: 100;
+        padding: 5%;
+        border: solid;
+
+        line-height: 1.5em;
+        
+
+}
+
+
+
+
+
+
